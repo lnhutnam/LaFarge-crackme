@@ -1,6 +1,13 @@
+// =======================================================================================================================================
+// VNU-HCM, University of Science
+// Department Computer Science, Faculty of Information Technology
+// Authors: Nhut-Nam Le (Tich Phan Suy Rong)
+// © 2020
+
 #include <iostream>
 #include <vector>
 #include <string>
+#include <cmath>
 
 // parse username input
 std::vector<unsigned char> parsingUserString(std::string iUserName) {
